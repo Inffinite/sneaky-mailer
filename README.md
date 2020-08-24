@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/Inffinite/sneaky-mailer/master/src/assets/sneaky.jpg)
+
 # sneaky-mailer
 
 ## Project setup
