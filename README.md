@@ -1,4 +1,4 @@
-# light-chat
+# sneaky-mailer
 
 ## Project setup
 ```
