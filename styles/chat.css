@@ -283,18 +283,17 @@
 
 .message-send {
     /* background-color: red; */
-    padding: 4px 4px 4px 4px;
 }
 
 .message-send-btn {
     background-color: var(--primary-color);
-    border-radius: 2px;
     height: 100%;
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     cursor: pointer;
+    
 }
 
 .message-send-btn-icon {

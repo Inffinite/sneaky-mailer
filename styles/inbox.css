@@ -4,8 +4,8 @@
 .inbox {
     border-right: 2px solid;
     border-color: #b0b6c848;
-    display: grid;
-    grid-template-rows: 30% 70%;
+    /* display: grid;
+    grid-template-rows: 30% 70%; */
     width: 24%;
     bottom: 0;
     top: 0;
@@ -22,6 +22,7 @@
 .inbox-bottom {
     /* background-color: red; */
     /* width: 100%; */
+    margin-top: 20px;
 }
 
 .conversation-btn-wrapper {
@@ -176,6 +177,8 @@
 }
 
 .users-wrapper {
+    height: 100%;
+    margin-top: 0px;
     width: 90%;
     overflow-y: scroll;
 }
