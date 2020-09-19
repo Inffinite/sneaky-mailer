@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Inffinite/sneaky-mailer/master/src/assets/sneaky.jpg)
+![](https://raw.githubusercontent.com/Inffinite/sneaky-mailer/master/app/src/assets/sneaky.jpg)
 
 # sneaky-mailer
 
